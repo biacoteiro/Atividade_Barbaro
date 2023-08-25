@@ -1,0 +1,8 @@
+C:\Users\beatriz.ccamargo\source\repos\atividadeboss.unicornio\atividadeboss.unicornio\bin\Debug\atividadeboss.unicornio.exe.config
+C:\Users\beatriz.ccamargo\source\repos\atividadeboss.unicornio\atividadeboss.unicornio\bin\Debug\atividadeboss.unicornio.exe
+C:\Users\beatriz.ccamargo\source\repos\atividadeboss.unicornio\atividadeboss.unicornio\bin\Debug\atividadeboss.unicornio.pdb
+C:\Users\beatriz.ccamargo\source\repos\atividadeboss.unicornio\atividadeboss.unicornio\obj\Debug\atividadeboss.unicornio.csproj.AssemblyReference.cache
+C:\Users\beatriz.ccamargo\source\repos\atividadeboss.unicornio\atividadeboss.unicornio\obj\Debug\atividadeboss.unicornio.csproj.SuggestedBindingRedirects.cache
+C:\Users\beatriz.ccamargo\source\repos\atividadeboss.unicornio\atividadeboss.unicornio\obj\Debug\atividadeboss.unicornio.csproj.CoreCompileInputs.cache
+C:\Users\beatriz.ccamargo\source\repos\atividadeboss.unicornio\atividadeboss.unicornio\obj\Debug\atividadeboss.unicornio.exe
+C:\Users\beatriz.ccamargo\source\repos\atividadeboss.unicornio\atividadeboss.unicornio\obj\Debug\atividadeboss.unicornio.pdb

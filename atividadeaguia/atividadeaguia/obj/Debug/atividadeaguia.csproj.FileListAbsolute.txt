@@ -1,0 +1,8 @@
+C:\Users\beatriz.ccamargo\source\repos\atividadeaguia\atividadeaguia\bin\Debug\atividadeaguia.exe.config
+C:\Users\beatriz.ccamargo\source\repos\atividadeaguia\atividadeaguia\bin\Debug\atividadeaguia.exe
+C:\Users\beatriz.ccamargo\source\repos\atividadeaguia\atividadeaguia\bin\Debug\atividadeaguia.pdb
+C:\Users\beatriz.ccamargo\source\repos\atividadeaguia\atividadeaguia\obj\Debug\atividadeaguia.csproj.AssemblyReference.cache
+C:\Users\beatriz.ccamargo\source\repos\atividadeaguia\atividadeaguia\obj\Debug\atividadeaguia.csproj.SuggestedBindingRedirects.cache
+C:\Users\beatriz.ccamargo\source\repos\atividadeaguia\atividadeaguia\obj\Debug\atividadeaguia.csproj.CoreCompileInputs.cache
+C:\Users\beatriz.ccamargo\source\repos\atividadeaguia\atividadeaguia\obj\Debug\atividadeaguia.exe
+C:\Users\beatriz.ccamargo\source\repos\atividadeaguia\atividadeaguia\obj\Debug\atividadeaguia.pdb

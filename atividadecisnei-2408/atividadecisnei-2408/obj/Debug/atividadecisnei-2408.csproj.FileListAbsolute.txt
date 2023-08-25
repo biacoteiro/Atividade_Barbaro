@@ -1,0 +1,8 @@
+C:\Users\beatriz.ccamargo\source\repos\atividadecisnei-2408\atividadecisnei-2408\bin\Debug\atividadecisnei-2408.exe.config
+C:\Users\beatriz.ccamargo\source\repos\atividadecisnei-2408\atividadecisnei-2408\bin\Debug\atividadecisnei-2408.exe
+C:\Users\beatriz.ccamargo\source\repos\atividadecisnei-2408\atividadecisnei-2408\bin\Debug\atividadecisnei-2408.pdb
+C:\Users\beatriz.ccamargo\source\repos\atividadecisnei-2408\atividadecisnei-2408\obj\Debug\atividadecisnei-2408.csproj.AssemblyReference.cache
+C:\Users\beatriz.ccamargo\source\repos\atividadecisnei-2408\atividadecisnei-2408\obj\Debug\atividadecisnei-2408.csproj.SuggestedBindingRedirects.cache
+C:\Users\beatriz.ccamargo\source\repos\atividadecisnei-2408\atividadecisnei-2408\obj\Debug\atividadecisnei-2408.csproj.CoreCompileInputs.cache
+C:\Users\beatriz.ccamargo\source\repos\atividadecisnei-2408\atividadecisnei-2408\obj\Debug\atividadecisnei-2408.exe
+C:\Users\beatriz.ccamargo\source\repos\atividadecisnei-2408\atividadecisnei-2408\obj\Debug\atividadecisnei-2408.pdb
